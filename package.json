@@ -4,7 +4,7 @@
   "displayName": "markdown table assistant",
   "description": "Markdown table formatter and generator.",
   "icon": "icon.png",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -14,14 +14,16 @@
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
-    "commands": [{
-      "command": "markdown-table-assistant.format_table",
-      "title": "Format markdown table"
-    },
-    {
-      "command": "markdown-table-assistant.generate_table",
-      "title": "Generate Markdown Table"
-    }]
+    "commands": [
+      {
+        "command": "markdown-table-assistant.format_table",
+        "title": "Format markdown table"
+      },
+      {
+        "command": "markdown-table-assistant.generate_table",
+        "title": "Generate Markdown Table"
+      }
+    ]
   },
   "scripts": {
     "lint": "eslint .",
@@ -36,5 +38,5 @@
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1"
   },
-  "repository":"https://github.com/sfengyuan/ext-md-table-assistant.git"
+  "repository": "https://github.com/sfengyuan/ext-md-table-assistant.git"
 }
