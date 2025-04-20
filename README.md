@@ -19,6 +19,6 @@ Format markdown table.
 
 ## Install
 
-![Extension page](https://marketplace.visualstudio.com/items?itemName=sunreal.markdown-table-assistant)
+[Extension page](https://marketplace.visualstudio.com/items?itemName=sunreal.markdown-table-assistant)
 
 **Enjoy!**
