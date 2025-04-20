@@ -3,6 +3,7 @@
   "publisher": "sunreal",
   "displayName": "markdown table assistant",
   "description": "Markdown table formatter and generator.",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
