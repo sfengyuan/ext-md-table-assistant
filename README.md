@@ -17,4 +17,8 @@ Format markdown table.
 
 > TIP: Press Ctrl+Shift+P to type commands.
 
+## Install
+
+![Extension page](https://marketplace.visualstudio.com/items?itemName=sunreal.markdown-table-assistant)
+
 **Enjoy!**

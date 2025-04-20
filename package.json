@@ -34,5 +34,6 @@
     "eslint": "^9.23.0",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1"
-  }
+  },
+  "repository":"https://github.com/sfengyuan/ext-md-table-assistant.git"
 }
