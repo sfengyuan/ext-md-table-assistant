@@ -34,6 +34,10 @@
   * The provided test runner will only consider files matching the name pattern `**.test.js`.
   * You can create folders inside the `test` folder to structure your tests any way you want.
 
+## Auto-increment the extension version
+
+`vsce publish minor` or `vsce publish 1.1.0`
+
 ## Go further
 
  * [Follow UX guidelines](https://code.visualstudio.com/api/ux-guidelines/overview) to create extensions that seamlessly integrate with VS Code's native interface and patterns.

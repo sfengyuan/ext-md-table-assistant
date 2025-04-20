@@ -126,7 +126,7 @@ function format_table_command () {
     editBuilder.replace(selection, formatted);
   }).then(success => {
     if (success) {
-      vscode.window.showInformationMessage('Formatted.');
+      // vscode.window.showInformationMessage('Formatted.');
     } else {
       vscode.window.showErrorMessage('Format failed');
     }
