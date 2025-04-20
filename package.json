@@ -4,7 +4,7 @@
   "displayName": "markdown table assistant",
   "description": "Markdown table formatter and generator.",
   "icon": "icon.png",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.99.0"
   },
